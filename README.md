@@ -24,12 +24,16 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
   </a>
 
+</br>
+
 <!-- 소개글 -->
 <p align='center'>
   안녕하세요,<br>
   ✌️끊임없이 배우고 성장하는✌️<br>
   <strong>신입 개발자 남유정입니다.</strong>
 </p>
+
+</br>
 
 <!-- 기술 스택 -->
 <p align='center'><strong>💻 Tech Stacks</strong></p>
@@ -52,6 +56,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
+
+</br>
 
 <!-- 자격증 -->
 ## 📜 Certificates
