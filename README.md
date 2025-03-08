@@ -4,7 +4,7 @@
 </p>
 
 <!-- Contact badge -->
-<p align='center'><strong>📧Contact</strong></p>
+<p align='center'><strong>📧Contact📧</strong></p>
 <p align='center'>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/dbwjd1108@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -17,7 +17,7 @@
 </br>
 
 <!-- About me badge -->
-<p align='center'><strong>👋About me</strong></p>
+<p align='center'><strong>👋About me👋</strong></p>
 <p align='center'>
   <!-- Portfolio -->
   <a href="https://www.notion.so/Frontend-Developer-Portfolio-c7b3c02bf8824d6fa1ea602803066b05">
@@ -36,7 +36,7 @@
 </br>
 
 <!-- 기술 스택 -->
-<p align='center'><strong>💻 Tech Stacks</strong></p>
+<p align='center'><strong>💻Tech Stacks💻</strong></p>
 <!-- Frontend -->
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
