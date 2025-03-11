@@ -23,6 +23,10 @@
   <a href="https://www.notion.so/Frontend-Developer-Portfolio-c7b3c02bf8824d6fa1ea602803066b05">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
   </a>
+    <!-- Tistory -->
+  <a href="https://nyj0x.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
 
 </br>
 
